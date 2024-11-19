@@ -8,7 +8,8 @@ When are peak sales periods?
 What are the most popular products?
 How do different segments behave?
 
-### Analyzing Total Sales Over Time
+**Analyzing Total Sales Over Time**
+
 ![image](https://github.com/user-attachments/assets/47489e32-ddc8-45bd-84d1-fa74b44483f6)
 
 We can see from the chart that there is a seasonal trend starting from July. But, will it be more interesting to know how many customers made a transaction and the total number of products sold each month?
