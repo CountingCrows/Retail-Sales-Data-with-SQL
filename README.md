@@ -2,11 +2,11 @@
 
 The retail industry is known for its competitive ecosystem. Understanding sales trends and customer purchasing behavior is critical for optimizing operations and driving revenue. This analysis explores a retail sales dataset to uncover key insights, including peak sales periods, top-performing products, and customer purchasing patterns.
 
-### Our analysis will address the following key questions:
+**Our analysis will address the following key questions:**
 
-When are peak sales periods?
-What are the most popular products?
-How do different segments behave?
+- When are peak sales periods?
+- What are the most popular products?
+- How do different segments behave?
 
 **Analyzing Total Sales Over Time**
 
